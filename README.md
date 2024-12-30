@@ -8,7 +8,7 @@ Welcome to my collection of **JavaScript practice sets**! 🚀 This repository c
 
 ### 1 **Color Scheme Changer 🎨**
 
-![Color Scheme Changer](https://via.placeholder.com/400x250.png?text=Your+Local+Time)
+![Color scheme Changer](https://github.com/user-attachments/assets/5e9ad588-9e68-4272-a87d-4d260fa065cb)
 
 This interactive web app allows users to change the color scheme of the page. By clicking a button, the background color switches to a random color, giving the page a fresh and vibrant look with every click. A colorful experience at your fingertips! 🌈
 
@@ -17,7 +17,7 @@ This interactive web app allows users to change the color scheme of the page. By
 
 . 
 ### 2. **BMI Calculator 🏋️‍♂️**
-![BMI Calculator]([https://via.placeholder.com/400x250.png?text=BMI+Calculator](https://github.com/user-attachments/assets/fc8a28e5-c7cc-4645-b085-1935a75bb6e2))
+![BMI Calculator](https://github.com/user-attachments/assets/fc8a28e5-c7cc-4645-b085-1935a75bb6e2)
 
 This web application calculates the **Body Mass Index (BMI)** based on user input (height and weight). It provides an immediate result and displays a message indicating the user's BMI category (Underweight, Normal, Overweight, or Obese). 💪
 
@@ -35,7 +35,7 @@ A simple web app that shows the current local time. It fetches the time from the
 
 ### 4. **1 to 100 Number Guessing Game 🎯**
 
-![Number Guessing Game]((https://github.com/user-attachments/assets/1e8eba4b-877a-432e-afbe-fe8bcf985eb8)
+![Guess the Number 1 to 100](https://github.com/user-attachments/assets/1e8eba4b-877a-432e-afbe-fe8bcf985eb8)
 
 A simple yet engaging game where users try to guess a randomly generated number between 1 and 100. The game provides feedback on whether the guess is too high or too low, and tracks the number of attempts. It’s a fun way to practice **JavaScript** basics like loops, conditionals, and user input.
 
