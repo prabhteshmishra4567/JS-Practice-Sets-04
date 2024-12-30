@@ -1,0 +1,122 @@
+html {
+  font-family: 'Poppins', sans-serif; 
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(90deg, #1a3541, #8abdd3);
+  background-attachment: fixed;
+  color: white;
+}
+
+
+
+#wrapper {
+  box-sizing: border-box;
+  text-align: center;
+  width: 500px;
+  padding: 25px;
+  color: #ffffff;
+  font-size: 18px;
+  border-radius: 20px;
+  background: linear-gradient(90deg, #8d1083, #00ccff);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5), 
+              0 6px 10px rgba(0, 0, 0, 0.4), 
+              inset 0 -3px 5px rgba(255, 255, 255, 0.2); 
+}
+
+p {
+  font-size: 16px;
+  margin: 10px 0;
+  color: #eaeaea;
+}
+
+#guess {
+  font-size: 22px;
+  margin-top: 20px;
+  color: #ff9800;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+#guessField {
+  color: #000;
+  width: 90%;
+  height: 45px;
+  font-size: 18px;
+  border: 2px solid #888;
+  border-radius: 8px;
+  margin-top: 10px;
+  text-align: center;
+  box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.4);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#guessField:hover,
+#guessField:focus {
+  border-color: #ff9800;
+  box-shadow: inset 0 2px 8px rgba(255, 152, 0, 0.5);
+  outline: none;
+}
+
+#subt {
+  background: linear-gradient(90deg, #ff5722, #ff9800);
+  color: #ffffff;
+  width: 90%;
+  height: 45px;
+  font-size: 18px;
+  border-radius: 8px;
+  border: none;
+  margin-top: 15px;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+#subt:hover {
+  background: linear-gradient(90deg, #ff784e, #ffac33);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+}
+
+.resultParas {
+  margin-top: 20px;
+}
+
+.resultParas p {
+  margin: 5px 0;
+  color: #d9d9d9;
+}
+
+.lowOrHi {
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #ff5722;
+}
+
+#newGame {
+  display: inline-block;
+  padding: 12px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  background: linear-gradient(90deg, #8d1083, #00ccff);
+  border: 2px solid #0056b3;
+  border-radius: 8px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+#newGame:hover {
+  background: linear-gradient(90deg, #7b0c72, #009cd9);
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+}
