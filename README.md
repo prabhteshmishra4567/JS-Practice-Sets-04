@@ -123,7 +123,7 @@ Feel free to fork the repository and submit a pull request if you'd like to cont
 ## 🙏 Acknowledgments
 
 Special thanks to **[Hitesh Chaudhary](https://youtube.com/@chaiaurcode?si=aziOvgYBm7fpMD2D)** for the wonderful tutorials that inspired and guided me through the creation of these projects. 🎉
-![Hitesh Chaudhary Sir AKA Chai aur Code][![Screenshot (11)](https://github.com/user-attachments/assets/c0e7ef28-7eda-4b77-8e91-46e1c07c2ae3)]
+Hitesh Chaudhary Sir AKA Chai aur Code ![Screenshot (11)](https://github.com/user-attachments/assets/c0e7ef28-7eda-4b77-8e91-46e1c07c2ae3)
 ---
 
 This updated **README** now includes emojis and is designed to be more engaging and attractive! Let me know if you'd like to add anything else! 😊
