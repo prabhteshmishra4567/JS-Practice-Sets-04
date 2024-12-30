@@ -6,15 +6,16 @@ Welcome to my collection of **JavaScript practice sets**! 🚀 This repository c
 
 ## 🛠️ Projects
 
-### 1. **1 to 100 Number Guessing Game 🎯**
+### 1 **Color Scheme Changer 🎨**
 
-![Number Guessing Game]((https://github.com/user-attachments/assets/1e8eba4b-877a-432e-afbe-fe8bcf985eb8)
+![Color Scheme Changer](https://via.placeholder.com/400x250.png?text=Your+Local+Time)
 
-A simple yet engaging game where users try to guess a randomly generated number between 1 and 100. The game provides feedback on whether the guess is too high or too low, and tracks the number of attempts. It’s a fun way to practice **JavaScript** basics like loops, conditionals, and user input.
+This interactive web app allows users to change the color scheme of the page. By clicking a button, the background color switches to a random color, giving the page a fresh and vibrant look with every click. A colorful experience at your fingertips! 🌈
 
 - **Technologies**: HTML, CSS, JavaScript
-- **Key Concepts**: User input, conditionals, random number generation, DOM manipulation.
+- **Key Concepts**: Event handling, random color generation, DOM manipulation.
 
+. 
 ### 2. **BMI Calculator 🏋️‍♂️**
 ![BMI Calculator]([https://via.placeholder.com/400x250.png?text=BMI+Calculator](https://github.com/user-attachments/assets/fc8a28e5-c7cc-4645-b085-1935a75bb6e2))
 
@@ -32,14 +33,14 @@ A simple web app that shows the current local time. It fetches the time from the
 - **Technologies**: HTML, CSS, JavaScript
 - **Key Concepts**: Date and time manipulation, dynamic content update.
 
-### 4. **Color Scheme Changer 🎨**
+### 4. **1 to 100 Number Guessing Game 🎯**
 
-![Color Scheme Changer](https://via.placeholder.com/400x250.png?text=Your+Local+Time)
+![Number Guessing Game]((https://github.com/user-attachments/assets/1e8eba4b-877a-432e-afbe-fe8bcf985eb8)
 
-This interactive web app allows users to change the color scheme of the page. By clicking a button, the background color switches to a random color, giving the page a fresh and vibrant look with every click. A colorful experience at your fingertips! 🌈
+A simple yet engaging game where users try to guess a randomly generated number between 1 and 100. The game provides feedback on whether the guess is too high or too low, and tracks the number of attempts. It’s a fun way to practice **JavaScript** basics like loops, conditionals, and user input.
 
 - **Technologies**: HTML, CSS, JavaScript
-- **Key Concepts**: Event handling, random color generation, DOM manipulation.
+- **Key Concepts**: User input, conditionals, random number generation, DOM manipulation.
 
 ---
 
@@ -122,7 +123,7 @@ Feel free to fork the repository and submit a pull request if you'd like to cont
 ## 🙏 Acknowledgments
 
 Special thanks to **[Hitesh Chaudhary](https://youtube.com/@chaiaurcode?si=aziOvgYBm7fpMD2D)** for the wonderful tutorials that inspired and guided me through the creation of these projects. 🎉
-![Hitesh Chaudhary Sir AKA Chai aur Code][(![Screenshot (11)](https://github.com/user-attachments/assets/c0e7ef28-7eda-4b77-8e91-46e1c07c2ae3](https://github.com/user-attachments/assets/c0e7ef28-7eda-4b77-8e91-46e1c07c2ae3)))
+![Hitesh Chaudhary Sir AKA Chai aur Code][![Screenshot (11)](https://github.com/user-attachments/assets/c0e7ef28-7eda-4b77-8e91-46e1c07c2ae3)]
 ---
 
 This updated **README** now includes emojis and is designed to be more engaging and attractive! Let me know if you'd like to add anything else! 😊
