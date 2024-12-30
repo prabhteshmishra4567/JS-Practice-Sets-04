@@ -15,7 +15,8 @@ This interactive web app allows users to change the color scheme of the page. By
 - **Technologies**: HTML, CSS, JavaScript
 - **Key Concepts**: Event handling, random color generation, DOM manipulation.
 
-. 
+---
+ 
 ### 2. **BMI Calculator 🏋️‍♂️**
 ![BMI Calculator](https://github.com/user-attachments/assets/fc8a28e5-c7cc-4645-b085-1935a75bb6e2)
 
@@ -23,6 +24,8 @@ This web application calculates the **Body Mass Index (BMI)** based on user inpu
 
 - **Technologies**: HTML, CSS, JavaScript
 - **Key Concepts**: Mathematical operations, user input validation, conditional statements.
+
+  ---
 
 ### 3. **Your Local Time ⏰**
 
@@ -32,6 +35,8 @@ A simple web app that shows the current local time. It fetches the time from the
 
 - **Technologies**: HTML, CSS, JavaScript
 - **Key Concepts**: Date and time manipulation, dynamic content update.
+
+  ---
 
 ### 4. **1 to 100 Number Guessing Game 🎯**
 
@@ -85,32 +90,33 @@ Here’s the directory structure for each project:
 
 ```
 /JS-Practice-Sets
-    ├── 1-to-100-guessing-game
+
+├── color-scheme-changer
         ├── index.html
         ├── style.css
         ├── script.js
-    ├── bmi-calculator
+├── bmi-calculator
         ├── index.html
         ├── style.css
         ├── script.js
-    ├── your-local-time
+├── your-local-time
         ├── index.html
         ├── style.css
         ├── script.js
-    ├── color-scheme-changer
+├── 1-to-100-guessing-game
         ├── index.html
         ├── style.css
         ├── script.js
 ```
 
----
 
 ## 📝 How to Use
 
-1. **1 to 100 Number Guessing Game**: Open `index.html` and try guessing the number between 1 and 100. 🎯
+1. **Color Scheme Changer**: Click the "Change Color" button to switch the background color to a random color. 🎨
 2. **BMI Calculator**: Enter your height and weight, then click the "Calculate BMI" button to get your result. 🏋️‍♂️
 3. **Your Local Time**: Open `index.html` to see the current time in your local timezone. ⏰
-4. **Color Scheme Changer**: Click the "Change Color" button to switch the background color to a random color. 🎨
+4. **1 to 100 Number Guessing Game**: Open `index.html` and try guessing the number between 1 and 100. 🎯
+
 
 ---
 
