@@ -4,9 +4,10 @@ Welcome to my collection of **JavaScript practice sets**! 🚀 This repository c
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Projects 
 
-### 1 **Color Scheme Changer 🎨**
+### <h2 align="center">Color Scheme Changer 🎨</h2>
+
 
 ![Color scheme Changer](https://github.com/user-attachments/assets/5e9ad588-9e68-4272-a87d-4d260fa065cb)
 
@@ -16,9 +17,11 @@ This interactive web app allows users to change the color scheme of the page. By
 - **Key Concepts**: Event handling, random color generation, DOM manipulation.
 
 ---
+<br>
 ---
  
----### 2. **BMI Calculator 🏋️‍♂️**---
+### <h2 align="center">BMI Calculator 🏋️‍♂️</h2>
+
 ![BMI Calculator](https://github.com/user-attachments/assets/fc8a28e5-c7cc-4645-b085-1935a75bb6e2)
 
 This web application calculates the **Body Mass Index (BMI)** based on user input (height and weight). It provides an immediate result and displays a message indicating the user's BMI category (Underweight, Normal, Overweight, or Obese). 💪
@@ -27,9 +30,10 @@ This web application calculates the **Body Mass Index (BMI)** based on user inpu
 - **Key Concepts**: Mathematical operations, user input validation, conditional statements.
 
   ---
+  <br>
   ---
 
-### 3. **Your Local Time ⏰**
+### <h2 align="center">Your Local Time ⏰</h2>
 
 ![Your Local Time](https://github.com/user-attachments/assets/c87084e2-2711-4a2c-86d4-44b090209fa4)
 
@@ -39,9 +43,10 @@ A simple web app that shows the current local time. It fetches the time from the
 - **Key Concepts**: Date and time manipulation, dynamic content update.
 
   ---
+  <br>
   ---
 
-### 4. **1 to 100 Number Guessing Game 🎯**
+### <h2 align="center">1 to 100 Number Guessing Game 🎯</h2>
 
 ![Guess the Number 1 to 100](https://github.com/user-attachments/assets/1e8eba4b-877a-432e-afbe-fe8bcf985eb8)
 
@@ -51,9 +56,10 @@ A simple yet engaging game where users try to guess a randomly generated number 
 - **Key Concepts**: User input, conditionals, random number generation, DOM manipulation.
 
 ---
+<br> 
 ---
 
-## 🌟 Features of All Projects
+## <h2 align="center">🌟 Features of All Projects </h2>
 
 - **Interactive User Interfaces**: Each project allows users to interact with the page, whether it’s guessing numbers, calculating BMI, viewing the current time, or changing the color scheme.
 - **Responsive Design**: The projects are designed to look great on both desktop and mobile devices. 📱💻
@@ -61,9 +67,10 @@ A simple yet engaging game where users try to guess a randomly generated number 
 - **JavaScript Fundamentals**: Each project reinforces fundamental JavaScript concepts like variables, functions, loops, and DOM manipulation.
 
 ---
+<br>
 ---
 
-## 🛠️ Tech Stack
+## <h2 align="center"> 🛠️ Tech Stack </h2>
 
 - **HTML**: Structure and layout of the web pages.
 - **CSS**: Styling and layout design to create an aesthetically pleasing interface.
