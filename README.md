@@ -16,8 +16,9 @@ This interactive web app allows users to change the color scheme of the page. By
 - **Key Concepts**: Event handling, random color generation, DOM manipulation.
 
 ---
+---
  
-### 2. **BMI Calculator 🏋️‍♂️**
+---### 2. **BMI Calculator 🏋️‍♂️**---
 ![BMI Calculator](https://github.com/user-attachments/assets/fc8a28e5-c7cc-4645-b085-1935a75bb6e2)
 
 This web application calculates the **Body Mass Index (BMI)** based on user input (height and weight). It provides an immediate result and displays a message indicating the user's BMI category (Underweight, Normal, Overweight, or Obese). 💪
@@ -25,6 +26,7 @@ This web application calculates the **Body Mass Index (BMI)** based on user inpu
 - **Technologies**: HTML, CSS, JavaScript
 - **Key Concepts**: Mathematical operations, user input validation, conditional statements.
 
+  ---
   ---
 
 ### 3. **Your Local Time ⏰**
@@ -37,6 +39,7 @@ A simple web app that shows the current local time. It fetches the time from the
 - **Key Concepts**: Date and time manipulation, dynamic content update.
 
   ---
+  ---
 
 ### 4. **1 to 100 Number Guessing Game 🎯**
 
@@ -48,6 +51,7 @@ A simple yet engaging game where users try to guess a randomly generated number 
 - **Key Concepts**: User input, conditionals, random number generation, DOM manipulation.
 
 ---
+---
 
 ## 🌟 Features of All Projects
 
@@ -57,6 +61,7 @@ A simple yet engaging game where users try to guess a randomly generated number 
 - **JavaScript Fundamentals**: Each project reinforces fundamental JavaScript concepts like variables, functions, loops, and DOM manipulation.
 
 ---
+---
 
 ## 🛠️ Tech Stack
 
@@ -64,6 +69,7 @@ A simple yet engaging game where users try to guess a randomly generated number 
 - **CSS**: Styling and layout design to create an aesthetically pleasing interface.
 - **JavaScript**: The core logic for each interactive feature in the projects.
 
+---
 ---
 
 ## 🚀 Getting Started
