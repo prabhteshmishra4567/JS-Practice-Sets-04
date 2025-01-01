@@ -7,9 +7,7 @@ Welcome to my collection of **JavaScript practice sets**! 🚀 This repository c
 ## 🛠️ Projects 
 
 ### <h2 align="center">Color Scheme Changer 🎨</h2>
-
-
-![Color scheme Changer](https://github.com/user-attachments/assets/5e9ad588-9e68-4272-a87d-4d260fa065cb)
+![Screenshot (15)](https://github.com/user-attachments/assets/6af01b69-39e9-44f9-8a3d-41719d091f29)
 
 This interactive web app allows users to change the color scheme of the page. By clicking a button, the background color switches to a random color, giving the page a fresh and vibrant look with every click. A colorful experience at your fingertips! 🌈
 
