@@ -59,8 +59,8 @@ A simple yet engaging game where users try to guess a randomly generated number 
 <br> 
 ---
 ###  <h2 align="center">Background Color Changer By Buttons 🌊</h2>
-![Screenshot (15)](https://github.com/user-attachments/assets/6af01b69-39e9-44f9-8a3d-41719d091f29)
 
+![Screenshot (15)](https://github.com/user-attachments/assets/320a75ed-67e3-41e8-85af-f390f1a71121)
 
 This interactive web app features a dynamic background that smoothly transitions through click on button. Additionally, users can click buttons to start or stop a function that changes the background color randomly every second, adding an extra layer of interactivity and fun! 🎨  
 
@@ -92,7 +92,7 @@ This interactive web app features a dynamic background that smoothly transitions
 ---
 ---
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 To get started with any of these projects:
 
@@ -110,7 +110,7 @@ Navigate to the project folder and open the `index.html` file in your browser to
 
 ---
 
-## 📂 Project Structure
+### 📂 Project Structure
 
 Here’s the directory structure for each project:
 
@@ -132,7 +132,12 @@ Here’s the directory structure for each project:
 │   ├── style.css
 │   ├── script.js
 │
-└── 1-to-100-guessing-game
+├── 1-to-100-guessing-game
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│
+└── Background Color Changer By Buttons
     ├── index.html
     ├── style.css
     ├── script.js
