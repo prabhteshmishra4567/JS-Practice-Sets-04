@@ -57,7 +57,6 @@ A simple yet engaging game where users try to guess a randomly generated number 
 
 ---
 <br> 
----
 ###  <h2 align="center">Background Color Changer By Buttons 🌊</h2>
 
 ![Screenshot (15)](https://github.com/user-attachments/assets/320a75ed-67e3-41e8-85af-f390f1a71121)
