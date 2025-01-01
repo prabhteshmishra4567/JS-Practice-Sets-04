@@ -55,11 +55,24 @@ A simple yet engaging game where users try to guess a randomly generated number 
 - **Technologies**: HTML, CSS, JavaScript
 - **Key Concepts**: User input, conditionals, random number generation, DOM manipulation.
 
+
+---
+<br> 
+---
+###  <h2 align="center">Background Color Changer By Buttons 🌊</h2>
+![Screenshot (15)](https://github.com/user-attachments/assets/6af01b69-39e9-44f9-8a3d-41719d091f29)
+
+
+This interactive web app features a dynamic background that smoothly transitions through click on button. Additionally, users can click buttons to start or stop a function that changes the background color randomly every second, adding an extra layer of interactivity and fun! 🎨  
+
+**Technologies**: HTML, CSS, JavaScript  
+**Key Concepts**: CSS animations, event handling, random color generation, DOM manipulation.  
+
 ---
 <br> 
 ---
 
-## <h2 align="center">🌟 Features of All Projects </h2>
+### <h2 align="center">🌟 Features of All Projects </h2>
 
 - **Interactive User Interfaces**: Each project allows users to interact with the page, whether it’s guessing numbers, calculating BMI, viewing the current time, or changing the color scheme.
 - **Responsive Design**: The projects are designed to look great on both desktop and mobile devices. 📱💻
@@ -75,6 +88,7 @@ A simple yet engaging game where users try to guess a randomly generated number 
 - **HTML**: Structure and layout of the web pages.
 - **CSS**: Styling and layout design to create an aesthetically pleasing interface.
 - **JavaScript**: The core logic for each interactive feature in the projects.
+
 
 ---
 ---
